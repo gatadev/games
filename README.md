@@ -1,3 +1,3 @@
 # games
 Letter finding games
-using java class, constructure in oop(object oriente programing )
+using java class, constructor in oop(object oriente programing )
